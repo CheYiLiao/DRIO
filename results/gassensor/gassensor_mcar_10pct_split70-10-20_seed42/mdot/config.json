@@ -1,0 +1,10 @@
+{
+  "eps": 0.01,
+  "lr": 0.01,
+  "opt": "RMSprop",
+  "niter": 1000,
+  "batchsize": 128,
+  "n_pairs": 1,
+  "noise": 0.1,
+  "scaling": 0.9
+}

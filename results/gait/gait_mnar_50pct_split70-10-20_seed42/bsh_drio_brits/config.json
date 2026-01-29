@@ -1,0 +1,24 @@
+{
+  "train": {
+    "epochs": 30,
+    "batch_size": 32,
+    "lr": 0.0005,
+    "weight_decay": 1e-06,
+    "val_interval": 10
+  },
+  "bsh_drio": {
+    "alpha": 0.99,
+    "gamma": 5.0,
+    "epsilon": 0.1,
+    "inner_steps": 5,
+    "inner_lr": 0.01,
+    "adaptive_epsilon": true,
+    "epsilon_quant": 0.5,
+    "epsilon_mult": 0.05
+  },
+  "model": {
+    "type": "bsh_drio_brits",
+    "rnn_hid_size": 64
+  },
+  "cv_enabled": false
+}

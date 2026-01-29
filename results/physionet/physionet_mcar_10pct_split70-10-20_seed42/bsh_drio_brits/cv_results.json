@@ -1,0 +1,19 @@
+{
+  "best_alpha": 0.75,
+  "best_gamma": 10.0,
+  "alpha_grid": [
+    0.75
+  ],
+  "gamma_grid": [
+    10.0
+  ],
+  "results": {
+    "(0.75, 10.0)": {
+      "val_loss": 0.6036822543694422,
+      "val_eval": 0.9944911599159241,
+      "epoch": 27,
+      "mse": 0.9944911599159241
+    }
+  },
+  "standalone_mode": true
+}

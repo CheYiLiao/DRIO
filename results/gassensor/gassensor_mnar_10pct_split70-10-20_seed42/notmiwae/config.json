@@ -1,0 +1,13 @@
+{
+  "n_latent": 50,
+  "n_hidden": 128,
+  "n_samples": 20,
+  "batch_size": 16,
+  "max_iter": 1000,
+  "out_dist": "gauss",
+  "missing_process": "selfmasking_known",
+  "L": 10000,
+  "n_latent_actual": 15,
+  "T": 150,
+  "D": 16
+}

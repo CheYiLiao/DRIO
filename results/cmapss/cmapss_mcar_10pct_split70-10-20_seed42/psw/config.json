@@ -1,0 +1,18 @@
+{
+  "lr": 0.002,
+  "n_epochs": 30,
+  "batch_size": 200,
+  "n_pairs": 2,
+  "noise": 0.0001,
+  "reg_sk": 0.005,
+  "numItermax": 1000,
+  "stopThr": 1e-06,
+  "normalize": 1,
+  "seq_length": 24,
+  "distance": "fft",
+  "ot_type": "uot_mm",
+  "reg_m": 1.0,
+  "dropout": 0.0,
+  "mva_kernel": 7,
+  "early_stop_patience": 10
+}

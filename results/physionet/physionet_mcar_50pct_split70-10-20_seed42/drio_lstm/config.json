@@ -1,0 +1,27 @@
+{
+  "train": {
+    "epochs": 30,
+    "batch_size": 32,
+    "lr": 0.0005,
+    "weight_decay": 1e-06,
+    "val_interval": 10
+  },
+  "drio": {
+    "alpha": 0.99,
+    "gamma": 10.0,
+    "epsilon": 0.1,
+    "tau": 10.0,
+    "inner_steps": 5,
+    "inner_lr": 0.01,
+    "adaptive_epsilon": true,
+    "epsilon_quant": 0.5,
+    "epsilon_mult": 0.05
+  },
+  "model": {
+    "model_type": "lstm",
+    "d_hidden": 128,
+    "num_layers": 2,
+    "dropout": 0.1
+  },
+  "cv_enabled": false
+}
