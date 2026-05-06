@@ -91,11 +91,11 @@ The same recipe (download, normalise on the train split, hold out entries via MC
 If you use this code, please cite:
 
 ```bibtex
-@article{liao2026drio,
-  title   = {Multivariate Time Series Data Imputation via Distributionally Robust Regularization},
-  author  = {Liao, Che-Yi and others},
-  journal = {arXiv preprint arXiv:2602.00844},
-  year    = {2026},
+@article{liao2026multivariate,
+  title={Multivariate Time Series Data Imputation via Distributionally Robust Regularization},
+  author={Liao, Che-Yi and Dong, Zheng and Garcia, Gian-Gabriel and Paynabar, Kamran},
+  journal={arXiv preprint arXiv:2602.00844},
+  year={2026}
 }
 ```
 
