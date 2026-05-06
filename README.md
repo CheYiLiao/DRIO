@@ -1,6 +1,6 @@
-# DRIO-SAITS
+# Multivariate Time Series Data Imputation via Distributionally Robust Regularization
 
-A single-file reproducible implementation of DRIO paired with the SAITS backbone, following the parameter setting from the paper *Multivariate Time Series Data Imputation via Distributionally Robust Regularization*.
+Contains reproducible implementation of DRIO paired with the SAITS backbone, following the parameter setting from the paper *Multivariate Time Series Data Imputation via Distributionally Robust Regularization*.
 
 ## Layout
 
