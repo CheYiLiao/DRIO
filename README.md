@@ -101,6 +101,6 @@ If you use this code, please cite:
 
 ## Author
 
-Che-Yi Liao &mdash; <cyliao@umich.edu>
+Che-Yi Liao &mdash; <cliao48@gatech.edu>
 
 Issues, questions, and pull requests are welcome.
